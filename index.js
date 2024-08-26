@@ -1,0 +1,5 @@
+console.log('hello')
+let nnt = new Date(2028, 5, 25)
+let myDate = myDate.getFullYear()
+console.log(myDate)
+console.log(nnt)
